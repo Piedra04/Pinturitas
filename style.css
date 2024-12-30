@@ -1,0 +1,56 @@
+table {
+    margin: auto;
+}
+
+#rojo {
+    background-color: red;
+}
+
+#amarillo {
+    background-color: yellow;
+}
+
+#verde {
+    background-color: green;
+}
+
+#azul {
+    background-color: blue;
+}
+
+#borrar {
+    background-color: white;
+}
+
+#colores td {
+    width: 15vw;
+    height: 3vh;
+    border: 1px solid black;
+}
+
+#seleccionado{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#pinturitas table{
+    border-collapse: collapse;
+}
+
+#pinturitas td {
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    margin: 0px;
+}
+
+div {
+    margin-bottom: 5vh;
+}
+
+#reiniciar {
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
